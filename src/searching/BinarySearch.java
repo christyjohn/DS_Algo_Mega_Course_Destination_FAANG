@@ -1,5 +1,6 @@
 package searching;
 
+// O(logn)
 public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = { 2, 3, 5, 7, 8, 9, 11, 23, 46, 78, 99 };
