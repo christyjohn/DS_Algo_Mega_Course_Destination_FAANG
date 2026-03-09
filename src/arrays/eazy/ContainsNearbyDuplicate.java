@@ -1,4 +1,4 @@
-package arrays;
+package arrays.eazy;
 
 /**
  * Given an integer array nums and an integer k, return true if there are two distinct indices

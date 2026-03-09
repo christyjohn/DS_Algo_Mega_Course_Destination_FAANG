@@ -1,4 +1,4 @@
-package searching;
+package searching.eazy;
 
 // O(n)
 public class LinearSearch {
