@@ -31,7 +31,7 @@ package arrays.eazy;
 import java.util.HashSet;
 import java.util.Set;
 
-public class ContainsNearbyDuplicate {
+public class P219_ContainsNearbyDuplicate {
     public static void main(String[] args) {
         //int[] nums = { 1, 2, 3, 1 };
         //int k = 3;

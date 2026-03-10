@@ -25,7 +25,7 @@ Constraints:
 import java.util.HashSet;
 import java.util.Set;
 
-public class ContainsDuplicate {
+public class P17_ContainsDuplicate {
     public static void main(String[] args) {
         int[] nums = { 1, 2, 3, 1 };
         //int[] nums = { 1, 2, 3, 4 };

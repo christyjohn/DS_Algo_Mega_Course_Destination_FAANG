@@ -25,7 +25,7 @@ package strings.eazy;
  * solution to such a case?
  */
 
-public class ValidAnagram {
+public class P242_ValidAnagram {
     public static void main(String[] args) {
         //String s = "anagram";
         //String t = "nagaram";

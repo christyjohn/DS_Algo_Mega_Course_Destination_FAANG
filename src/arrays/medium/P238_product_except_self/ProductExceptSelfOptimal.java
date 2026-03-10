@@ -1,4 +1,4 @@
-package arrays.medium.p238_product_except_self;
+package arrays.medium.P238_product_except_self;
 
 /**
  * Leetcode: 238

@@ -32,7 +32,7 @@ import java.util.*;
  *     strs[i] consists of lowercase English letters.
  */
 
-public class GroupAnagrams {
+public class P49_GroupAnagrams {
     public static void main(String[] args) {
         String[] strs = { "eat","tea","tan","ate","nat","bat" };
         System.out.println(groupAnagrams(strs));
